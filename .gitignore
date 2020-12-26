@@ -4,6 +4,9 @@
 # Exclude resources to avoid copyright issues
 /resources/**
 
+#Exclude Config
+xmas_cfg.h
+
 # Prerequisites
 *.d
 
