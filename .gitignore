@@ -1,3 +1,9 @@
+#Mac specifics
+.DS_Store
+
+# Exclude resources to avoid copyright issues
+/resources/**
+
 # Prerequisites
 *.d
 

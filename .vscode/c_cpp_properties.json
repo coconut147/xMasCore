@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                ".",
+                "/Users/coco/Documents/Arduino/libraries/ArduinoJson/src",
+                "/Users/coco/Documents/Arduino/libraries/M5Stack/src",
+                "/Applications/Arduino.app/Contents/Java/libraries/SD/src",
+                "/Users/coco/Library/Arduino15/packages/esp32/tools/**",
+                "/Users/coco/Documents/Arduino/libraries/**",
+                "/Applications/Arduino.app/Contents/Java/libraries/**",
+                "/Users/coco/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/**",
+                "/Users/coco/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/variants/m5stack_core_esp32/*",
+                "/Users/coco/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/WiFi/src",
+                "/Users/coco/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/HTTPClient/src"
+            ],
+            "forcedInclude": [],
+            "defines": [
+                "USBCON"
+            ],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
